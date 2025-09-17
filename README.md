@@ -15,10 +15,10 @@
 ---
 
 ## 📂 Featured Projects
-- [ERC20 Advanced Token](https://github.com/ehszmn/erc20-advanced-token)  
-- [ERC721 NFT Collection](https://github.com/ehszmn/erc721-nft-collection)  
-- [Mini DEX](https://github.com/ehszmn/mini-dex)  
-- [Lending Protocol (Educational)](https://github.com/ehszmn/lending-protocol)  
+- [ERC20 Advanced Token](
+- [ERC721 NFT Collection]  
+- [Mini DEX]
+- [Lending Protocol (Educational)]
 
 ---
 
