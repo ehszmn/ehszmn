@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ehsan 👋
 
-<!--
-**ehszmn/ehszmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Solidity & Smart Contract Developer**  
+⚡ Passionate about DeFi, NFTs, and Blockchain Security  
+🚀 Building on Ethereum, Binance Smart Chain, and Layer2 solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages & Frameworks:** Solidity, JavaScript, Hardhat, Foundry, Truffle  
+- **Libraries & Tools:** OpenZeppelin, Web3.js, Ethers.js  
+- **Security & Optimization:** Reentrancy Guard, Flash Loan Protection, Gas Optimization  
+- **Patterns:** Behavioral, Economic, Security, Upgradeability  
+
+---
+
+## 📂 Featured Projects
+- [ERC20 Advanced Token](https://github.com/ehszmn/erc20-advanced-token)  
+- [ERC721 NFT Collection](https://github.com/ehszmn/erc721-nft-collection)  
+- [Mini DEX](https://github.com/ehszmn/mini-dex)  
+- [Lending Protocol (Educational)](https://github.com/ehszmn/lending-protocol)  
+
+---
+
+## 📊 GitHub Stats
+![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehszmn&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehszmn&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+- 📧 Email: ehsan.zamani7007@gmail.com  
+- 💬 Telegram: [@ehszmn](https://t.me/ehszmn)  
