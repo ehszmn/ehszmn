@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-- [ERC20 Advanced Token]
+- [ERC20 Advanced Token] 
 - [ERC721 NFT Collection]  
 - [Mini DEX]
 - [Lending Protocol (Educational)]
