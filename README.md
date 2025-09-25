@@ -31,7 +31,8 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **ERC721 NFT Collection** — metadata, minting cap, operator filter
-  Repo: 
+  Repo: [https://github.com/ehszmn/ERC721-NFT-Collection](https://github.com/ehszmn/ERC721-NFT-Collection)
+  *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **Mini DEX** — constant product AMM with fees & slippage protection
   Repo: 
