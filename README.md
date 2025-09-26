@@ -35,7 +35,8 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **Mini DEX** — constant product AMM with fees & slippage protection
-  Repo: 
+  Repo: [https://github.com/ehszmn/Mini-DEX](https://github.com/ehszmn/Mini-DEX)
+  *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **Lending Protocol (Educational)** — over‑collateralized borrowing with oracle
   Repo: 
