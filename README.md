@@ -27,15 +27,21 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
 > Production‑style repos with tests, scripts, and docs. Each includes a **README**, **unit tests**, and (when relevant) **testnet deployment**.
 
 * **ERC20 Advanced Token** — extended allowance, pausable & upgrade‑ready
+
   Repo: [https://github.com/ehszmn/ERC20-Advanced-token](https://github.com/ehszmn/ERC20-Advanced-token)
+  
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **ERC721 NFT Collection** — metadata, minting cap, operator filter
+
   Repo: [https://github.com/ehszmn/ERC721-NFT-Collection](https://github.com/ehszmn/ERC721-NFT-Collection)
+  
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **Mini DEX** — constant product AMM with fees & slippage protection
+  
   Repo: [https://github.com/ehszmn/Mini-DEX](https://github.com/ehszmn/Mini-DEX)
+  
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **Lending Protocol (Educational)** — over‑collateralized borrowing with oracle
