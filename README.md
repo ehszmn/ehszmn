@@ -45,8 +45,10 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
 * **Lending Protocol (Educational)** — over‑collateralized borrowing with oracle
-  Repo: 
 
+  Repo: [https://github.com/ehszmn/Lending-Protocol-Educational-](https://github.com/ehszmn/Lending-Protocol-Educational-)
+  
+  *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 ---
 
 ## 🧩 Patterns & Examples
