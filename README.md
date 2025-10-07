@@ -8,7 +8,7 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
 
 ## 🔗 Quick Links
 
-* 🧪 Main repo for patterns: **[Solidity Design Patterns]** *(Behavioral · Economic · Security · Upgradeability)*
+* 🧪 Main repo for patterns: **[Solidity Design Patterns](https://github.com/ehszmn/Solidity-Design-Patterns)** *(Behavioral · Economic · Security · Upgradeability)*
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +58,7 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
 * **Security:** CEI, emergency stop, pull‑over‑push, secure ETH transfer
 * **Upgradeability:** Proxy/Delegate, Eternal Storage
 
-> See consolidated examples in **[Solidity Design Patterns]**.
+> See consolidated examples in **[Solidity Design Patterns](https://github.com/ehszmn/Solidity-Design-Patterns)**.
 
 ---
 
