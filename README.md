@@ -5,14 +5,6 @@ Building secure on-chain systems across **Ethereum**, **BSC**, and **Layer 2**.
 Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**.
 
 ---
-
-## 🔗 Quick Links
-
-* 🧪 Main repo for patterns: **[Solidity Design Patterns](https://github.com/ehszmn/solidity-patterns)** *(Behavioral · Economic · Security · Upgradeability)*
-* 🧰 Boilerplate starter: **[Hardhat + Foundry Template](https://github.com/ehszmn/hardhat-foundry-starter)**
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:** Solidity, JavaScript/TypeScript, Hardhat, Foundry, Truffle
