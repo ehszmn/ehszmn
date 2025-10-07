@@ -5,6 +5,11 @@ Building secure on-chain systems across **Ethereum**, **BSC**, and **Layer 2**.
 Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**.
 
 ---
+
+## 🔗 Quick Links
+
+* 🧪 Main repo for patterns: **[Solidity Design Patterns]** *(Behavioral · Economic · Security · Upgradeability)*
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:** Solidity, JavaScript/TypeScript, Hardhat, Foundry, Truffle
@@ -53,7 +58,7 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
 * **Security:** CEI, emergency stop, pull‑over‑push, secure ETH transfer
 * **Upgradeability:** Proxy/Delegate, Eternal Storage
 
-> See consolidated examples in **[Solidity Design Patterns](https://github.com/ehszmn/solidity-patterns)**.
+> See consolidated examples in **[Solidity Design Patterns]**.
 
 ---
 
