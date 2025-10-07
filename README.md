@@ -35,6 +35,9 @@ Focus areas: **DeFi**, **NFTs**, **protocol security**, and **gas optimization**
 * **ERC721 NFT Collection** — metadata, minting cap, operator filter
 
   Repo: [https://github.com/ehszmn/ERC721-NFT-Collection](https://github.com/ehszmn/ERC721-NFT-Collection)
+
+  **Live Collection:** [Mark‑20 NFT Collection on Element Market](https://element.market/collections/mark-20-2?search[toggles][0]=ALL)
+  Description: A handcrafted NFT collection symbolizing progress toward Mark‑20, blending art, smart contract engineering, and identity. Each NFT is minted through a custom ERC721 contract deployed on BNB Smart     Chain, following secure minting and metadata standards.
   
   *Tech:* Solidity · Hardhat · OpenZeppelin · Ethers · Tests
 
